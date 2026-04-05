@@ -128,6 +128,9 @@
   <ItemGroup>
     <ClCompile Include="Smart Pharmacy Prescription Tracker.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.Md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
